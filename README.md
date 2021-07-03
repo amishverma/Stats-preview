@@ -1,2 +1,2 @@
-# Stats-preview
-Stats preview made using HTML and CSS.
+# Frontend Mentor - Stats preview card component solution
+This is the solution of the stats preivew card challenge on frontend mentor.
